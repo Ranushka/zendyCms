@@ -21,6 +21,7 @@ module.exports = ({ env }) => {
     }
   };
 
+  // local db
   // return {
   //   connection: {
   //     client: "sqlite",
