@@ -1,1 +1,17 @@
-{}
+{
+  "custom-field": "Aid CMS Example Mo",
+  "custom-object": {
+    "custom-line": ""
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "Aid CMS Example Mo222"
+    },
+    {
+      "custom-list-item": "Aid CMS Example Mo111"
+    },
+    {
+      "custom-list-item": "Aid CMS Example Mo"
+    }
+  ]
+}
